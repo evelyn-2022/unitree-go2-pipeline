@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/evelyn-2022/unitree-go2-mobile.git
+[submodule "server"]
+	path = server
+	url = https://github.com/evelyn-2022/unitree-go2-server.git
